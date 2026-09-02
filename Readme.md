@@ -1,1 +1,3 @@
-Helloo.... I am Subinoy Nath
+Helloo.... I am Subinoy Nath.
+
+This repo is for DEVOPS lab
