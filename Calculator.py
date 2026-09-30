@@ -1,12 +1,10 @@
+
 print("============== Calculator ===============")
 
-# a = input("Enter the first number: ")
-# b = input("Enter the second number: ")
 
-def add(a,b):
+def add(a, b):
     return a + b
 
-def subtract(a,b):
-    return a - b 
 
-# print("Sum = ", add(a,b))
+def subtract(a, b):
+    return a - b
